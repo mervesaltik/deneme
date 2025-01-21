@@ -1,5 +1,2 @@
-# Learning Git
+# Learning Git !
 
-# Header
-
-Watch me 
